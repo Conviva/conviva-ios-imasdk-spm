@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "ConvivaIMASDK",
             url: "https://github.com/Conviva/conviva-ios-imasdk/raw/4.0.1/Framework/ConvivaIMASDK.xcframework.zip",
-            checksum: "cc3c54a204ca10bc6e507481f15ad00e2d3acbea1d404dfcab2e4c73c4eb084a"),
+            checksum: "8a824f1c602b6dad2e5260f688be2353baea77031b9f15df3de3dd73c74d03ed"),
         
         .binaryTarget(
             name: "ConvivaSDK",
