@@ -16,13 +16,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ConvivaIMASDK",
-            url: "https://github.com/Conviva/conviva-ios-imasdk/raw/4.0.3/Framework/ConvivaIMASDK.xcframework.zip",
-            checksum: "68db2f6bf9d2b4772c67b57f06c32853c2b5290883407d89b73dbdf8523b17ef"),
+            url: "https://github.com/Conviva/conviva-ios-imasdk/raw/4.0.4/Framework/ConvivaIMASDK.xcframework.zip",
+            checksum: "98b649e1d82fe1d07bd08b81e6281910292d63763e1d033e9e2b8552efa2daf6"),
         
         .binaryTarget(
             name: "ConvivaSDK",
-            url: "https://github.com/Conviva/ConvivaSDK/raw/4.0.30/Framework/ConvivaSDK.xcframework.zip",
-            checksum: "db1beee20458b23c422cbe66785d0a0a2b933a0f4590b10ef25fdf0e51b1bc57"),
+            url: "https://github.com/Conviva/ConvivaSDK/raw/4.0.38/Framework/ConvivaSDK.xcframework.zip",
+            checksum: "50d04bef78f28e94bc20d47bd3f0010defb7fd915855f89eadebb307faf140e7"),
 
         .target(
               name: "ConvivaIMASDKTarget",
