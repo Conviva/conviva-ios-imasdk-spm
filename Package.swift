@@ -27,8 +27,8 @@ let package = Package(
         .target(
               name: "ConvivaIMASDKTarget",
               dependencies: [
-                .target(name: "ConvivaSDK"),
-                .target(name: "ConvivaIMASDKIMA")
+                .target(name: "ConvivaSDKIMA"),
+                .target(name: "ConvivaIMASDK")
               ],
               path: "PlatformExcludes"
             )
